@@ -6,8 +6,7 @@ public class helloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        system.out.println("welcome to git");
-        //Welcome to git and to the terminal window
+//This is new line
         System.out.println("Hello, World"); 
     } 
 } 
